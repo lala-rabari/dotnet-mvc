@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GridTest", "GridTest\GridTest.csproj", "{28297D55-C582-44C1-9EED-25557FEC8BA6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JQueryDataTables", "..\..\Users\lrabari.CELTIC\Downloads\JQueryDataTables\JQueryDataTables\JQueryDataTables.csproj", "{500B6978-6D84-439C-AD32-A14849A30C44}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28297D55-C582-44C1-9EED-25557FEC8BA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28297D55-C582-44C1-9EED-25557FEC8BA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28297D55-C582-44C1-9EED-25557FEC8BA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28297D55-C582-44C1-9EED-25557FEC8BA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{500B6978-6D84-439C-AD32-A14849A30C44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{500B6978-6D84-439C-AD32-A14849A30C44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{500B6978-6D84-439C-AD32-A14849A30C44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{500B6978-6D84-439C-AD32-A14849A30C44}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
