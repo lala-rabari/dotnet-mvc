@@ -18,7 +18,7 @@ namespace GridTest.Controllers
             return View("Home");
         }
         /// <summary>
-        /// added comments
+        /// added comments to the colone copy from git bash command
         /// </summary>
         /// <param name="param"></param>
         /// <returns></returns>
