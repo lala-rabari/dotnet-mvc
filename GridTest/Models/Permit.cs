@@ -5,6 +5,9 @@ using System.Web;
 
 namespace GridTest.Models
 {
+    /// <summary>
+    /// test comment
+    /// </summary>
     public class Permit
     {
         public string PermitNbr;
