@@ -17,6 +17,11 @@ namespace GridTest.Controllers
         {
             return View("Home");
         }
+        /// <summary>
+        /// added comments
+        /// </summary>
+        /// <param name="param"></param>
+        /// <returns></returns>
         public ActionResult AjaxHandler(JQueryDataTableParamModel param)
         {   IList<Permit> permitdata = new List<Permit>();
         permitdata.Add(new Permit() { PermitNbr = "SN13000001", ClientName = "Lala", ApplicationNbr = "1", PermitType = "Single Trip", AccountNbr = "34203" });
