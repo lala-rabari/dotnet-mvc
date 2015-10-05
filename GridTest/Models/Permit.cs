@@ -6,7 +6,7 @@ using System.Web;
 namespace GridTest.Models
 {
     /// <summary>
-    /// test comment
+    /// test comment ..adding new new another 1
     /// </summary>
     public class Permit
     {
